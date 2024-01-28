@@ -4,7 +4,7 @@
 ## Docs Are Your Friend!
 * [PHP DOCUMENTATION](https://www.php.net/manual/en/index.php)
 
-## [https://www.php.net/manual/en/language.basic-syntax.phptags.php] (PHP Tags) and Commenting
+## [PHP Tags] (https://www.php.net/manual/en/language.basic-syntax.phptags.php) and Commenting
 ```php
 <?php  
   // This is a single-line comment. The line above is an opening PHP tag.
