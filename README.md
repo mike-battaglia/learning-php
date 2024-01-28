@@ -1,7 +1,8 @@
 # Learning PHP
 *My notes for learning PHP.*
 
-[PHP DOCUMENTATION](https://www.php.net/manual/en/index.php)
+## Docs Are Your Friend!
+* [PHP DOCUMENTATION](https://www.php.net/manual/en/index.php)
 
 ## The PHP Tags and Commenting
 ```php
