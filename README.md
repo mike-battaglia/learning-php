@@ -1,2 +1,9 @@
-# learning-php
-My notes for learning PHP.
+# Learning PHP
+*My notes for learning PHP.*
+
+## The PHP Tags
+```php
+<?php
+
+?>
+```
