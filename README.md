@@ -4,7 +4,8 @@
 ## The PHP Tags and Commenting
 ```php
 <?php  
-  // This is a single-line comment
+  // This is a single-line comment. The line above is an opening PHP tag.
+  // The final line of this code is a closing PHP tag.
 
   /*
   This is a multiline ("block") comment
