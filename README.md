@@ -36,7 +36,7 @@
 
   # Question: How do we feel about emojis in comments? 🔴🟢
 
-  // PHP code is enclosed between the opening and closing tags.
+  // PHP code is enclosed between the opening and closing tags. The line below is a closing tag.
 ?>
 ```
 
