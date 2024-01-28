@@ -4,15 +4,18 @@
 ## Docs Are Your Friend!
 * [PHP DOCUMENTATION](https://www.php.net/manual/en/index.php)
 
-## The PHP Tags and Commenting
+## [https://www.php.net/manual/en/language.basic-syntax.phptags.php](PHP Tags) and Commenting
 ```php
 <?php  
   // This is a single-line comment. The line above is an opening PHP tag.
+
+  # This is also a single-line comment.
+
   // The final line of this code is a closing PHP tag.
 
   /*
-  This is a multiline ("block") comment
-  A multiline comment is sandwiched between slashes and asterisks.
+  This is a multi-line ("block") comment
+  A multi-line comment is sandwiched between slashes and asterisks.
   */
 
   /*
@@ -23,6 +26,8 @@
   // PHP code is enclosed between the opening and closing tags.
 ?>
 ```
+
+
 ## Strings
 ```php
 <?php
