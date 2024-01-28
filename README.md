@@ -24,6 +24,18 @@
    * This is an optional style choice.
    */
 
+  // Sometimes, people get fancy with their comments, like these:
+
+  //======================================================================
+  // CATEGORY LARGE FONT
+  //======================================================================
+
+  //-----------------------------------------------------
+  // Sub-Category Smaller Font
+  //-----------------------------------------------------
+
+  # Question: How do we feel about emojis in comments? 🔴🟢
+
   // PHP code is enclosed between the opening and closing tags.
 ?>
 ```
